@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toheeb27
-- 👀 I’m interested in Data Science, Bioinformatics, Genomics Analytics and Cancer Genomics
+- 👀 I’m interested in Data Science, Bioinformatics, Cancer and Infectious diseases Computational Genomics
 - 🌱 I’m currently learning Data Science and Bioinformatics
 - 💞️ I’m looking forward to collaborating on Data Science, Bioinformatics and Cancer Genomics projects
 - 📫 How to reach me jumahtoheeb@gmail.com
